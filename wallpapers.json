@@ -1,32 +1,38 @@
 [
   {
     "id": "1",
-    "name": "Mavuika Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/thumbs/mavuika.jpg",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/mavuika.png"
+    "name": "Yae Miko Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko.png"
   },
   {
     "id": "2",
-    "name": "Anby Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/thumbs/anby.jpg",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/anby.png"
+    "name": "Yae Miko Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko1.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko1.png"
   },
   {
     "id": "3",
-    "name": "Arlecchino Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/thumbs/arlecchino.jpg",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/arlecchino.png"
+    "name": "Yae Miko Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko2.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko2.png"
   },
   {
     "id": "4",
-    "name": "Arlecchino Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/thumbs/arlecchino1.jpg",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/arlecchino1.png"
+    "name": "Yae Miko Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko3.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko3.png"
   },
   {
     "id": "5",
-    "name": "Arlecchino Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/thumbs/arlecchino2.jpg",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@hekkaideka/images/arlecchino2.png"
+    "name": "Yae Miko Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko4.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko4.png"
+  },
+  {
+    "id": "6",
+    "name": "Yae Miko Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko5.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko5.png"
   }
 ]
