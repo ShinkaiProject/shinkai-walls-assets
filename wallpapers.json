@@ -1,38 +1,98 @@
 [
   {
     "id": "1",
-    "name": "Yae Miko Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko.png",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko.png"
+    "name": "Emerald Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/emerald_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/emerald_shinkai_light.png"
   },
   {
     "id": "2",
-    "name": "Yae Miko Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko1.png",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko1.png"
+    "name": "Emerald Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/emerald_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/emerald_shinkai_dark.png"
   },
   {
     "id": "3",
-    "name": "Yae Miko Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko2.png",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko2.png"
+    "name": "Chalcedony Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/blue_chalcedony_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/blue_chalcedony_shinkai_light.png"
   },
   {
     "id": "4",
-    "name": "Yae Miko Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko3.png",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko3.png"
+    "name": "Chalcedony Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/blue_chalcedony_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/blue_chalcedony_shinkai_dark.png"
   },
   {
     "id": "5",
-    "name": "Yae Miko Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko4.png",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko4.png"
+    "name": "Kuromi Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/kuromi_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/kuromi_shinkai_light.png"
   },
   {
     "id": "6",
-    "name": "Yae Miko Shinkai wallpaper",
-    "thumbnail_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/thumbs/yaemiko5.png",
-    "full_url": "https://cdn.jsdelivr.net/gh/Shinkaiprjkt/shinkai-walls-assets@heptakaideka/images/yaemiko5.png"
+    "name": "Kuromi Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/kuromi_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/kuromi_shinkai_dark.png"
+  },
+  {
+    "id": "7",
+    "name": "Lemon Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/lemon_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/lemon_shinkai_light.png"
+  },
+  {
+    "id": "8",
+    "name": "Lemon Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/lemon_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/lemon_shinkai_dark.png"
+  },
+  {
+    "id": "9",
+    "name": "Monochrome Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/monochrome_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/monochrome_shinkai_light.png"
+  },
+  {
+    "id": "10",
+    "name": "Monochrome Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/monochrome_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/monochrome_shinkai_dark.png"
+  },
+  {
+    "id": "11",
+    "name": "Coffee Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/coffee_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/coffee_shinkai_light.png"
+  },
+  {
+    "id": "12",
+    "name": "Coffee Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/coffee_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/coffee_shinkai_dark.png"
+  },
+  {
+    "id": "13",
+    "name": "Terracotta Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/terracotta_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/terracotta_shinkai_light.png"
+  },
+  {
+    "id": "14",
+    "name": "Terracotta Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/terracotta_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/terracotta_shinkai_dark.png"
+  },
+  {
+    "id": "15",
+    "name": "Thanos Light Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/thanos_shinkai_light.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/thanos_shinkai_light.png"
+  },
+  {
+    "id": "16",
+    "name": "Thanos Dark Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/thanos_shinkai_dark.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Pixel-Walls/thanos_shinkai_dark.png"
   }
 ]
