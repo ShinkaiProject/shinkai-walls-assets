@@ -160,5 +160,23 @@
     "name": "Magenta Flow Shinkai wallpaper",
     "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Lumina-Walls/magenta_flow_shinkai.jpg",
     "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Lumina-Walls/magenta_flow_shinkai.jpg"
+  },
+  {
+    "id": "28",
+    "name": "Solar Eclipse Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Neon-Orbs-Walls/solar_eclipse_shinkai.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Neon-Orbs-Walls/solar_eclipse_shinkai.png"
+  },
+  {
+    "id": "29",
+    "name": "Emerald Orbit Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Neon-Orbs-Walls/emerald_orbit_shinkai.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Neon-Orbs-Walls/emerald_orbit_shinkai.png"
+  },
+  {
+    "id": "30",
+    "name": "Violet Halo Shinkai wallpaper",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Neon-Orbs-Walls/violet_halo_shinkai.png",
+    "full_url": "https://cdn.jsdelivr.net/gh/ShinkaiProject/shinkai-walls-assets@heptakaideka/images/Neon-Orbs-Walls/Violet_halo_shinkai.png"
   }
 ]
